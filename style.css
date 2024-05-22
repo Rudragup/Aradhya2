@@ -1,0 +1,43 @@
+body{
+    background-image: url('./WhatsApp\ Image\ 2024-03-18\ at\ 18.13.43.jpeg');
+    background-size: contain;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body button{
+
+border: none;
+background: none;
+
+}
+#a{
+background-color:rgb(0, 0, 0,0.5);
+width: 70vw;
+height: 40vh;
+
+text-align: center;
+
+}
+button{
+    width: 20vw;
+    height: 10vh;
+    color: antiquewhite;
+    background-color:rgba(0,0,0,0.5);
+    font-size: xx-large;
+
+}
+.btn{
+    margin-bottom: 5%;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    border-style: none;
+}
+a{
+    color: white;
+}
